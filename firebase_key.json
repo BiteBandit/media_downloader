@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "black-market-b6eee",
+  "private_key_id": "71bf2103e24828d951441d0212e4fe64459f9ffc",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDI51TudbqISXv5\ny70AwmbYJ1QHh1HIaWLUM3LA+paZCppwlu1lqbh7M15lRxhSc8lLZ+RzX+EWeqni\nuvFzgGjdHDrVYs31UMDPx7BD3AIayB6lL5V5uDtcAagEDzKttx9FFN9UoQTCLS5o\nme5sl4rUqnMsxEyDTILF/yl2z4O3ldb3leFA8IYV8scwKMlFG4M+mmFB/6p5KpjP\nMrJ0WiEfq2G0WZO6y9rnm/npJlxJWnFIYJeP83sHkAj5npTuTnjv3MYzA1MEkKyy\nKkOfjfMU6Jn6sOS5mxo6VARDANu3t2pt2hQ6rFYrszvWMZL3ANZ0LHffSVSBZXoR\nx3CxDWAZAgMBAAECggEAAapaaXXvhuzYc9QYZ2/r+zFQRShHTf8CzEvSmiM5qc2x\nsuqrGNo5eSP8BHxX9tgo4OMBc6v38m3mvuraGdgEhoZuYm0JZp8RLrDpzd9ZvtSF\nAjr6nBi0dCAW0XnL65x0TFXg9co2NgeWI+b9DtrTUjskpGzKcrp7NwweUSmuXpCC\nF1OzEYa+ewYPohtSk5+jZgo6v4dkLA8k7+AxhoIVATG0SWNtL1DqGvAIta8wHgph\nMxoQX76asU7bOPIoyeV+q/jfUhYO5VsXf1m+1CrcK0Z1Tiq9727xpIpFiaPWKMKA\nhyR6khtwTbTAGe9UEq/dqtpLI1bXilG1keM0eSgY0QKBgQDt0U3GpfAEMZDOw61O\nzejH4U3FxfqslKJk/zufntcRCmgsRm/cRB6UqFJabGkyBBqEeq8UaTXR95IZpe/D\nmbWawEfJkfD5M+nXFEGm1805PJFAiW2EaY3+qbF5bolgczuznD4+BCDZMrtx1CUu\nvfmP6RG1pnUSPwJZTdnwI3TMhQKBgQDYQ4cgbD0nu1WchtLNBP9cIVypMi0eMZf0\nun9VJUN6PmULLdRPPwcTj6nqVwX1hbSalisyMaf7GANW4jYcoUUyT9bAId6GydvQ\nOaEKAbkpqMpRz3t4D0iUGbqr/Z85jlpkY/LxeAnHsQy/YseorNbpLNBybKvb7nZM\nPTOKv9BThQKBgGQ55bFmlbTuvrylMxEXLpeumHxVZ8P8EETIXHR1GOaRoD2oodQO\n0WSNW8fIEL2HhTV4DvlnLcuDrwsoJ9gjm6nQh3CoFQqxmkeOvex23oLUx9KPGJzJ\nb5J4KdengjYn2m1j18eDLeTbwKvEYLdGUTsZWuFXeddqvq6sZMET8FGRAoGAPoyR\naZxEt9gj88i+8ZNPdEsl7L3ZdNEtPRgvueW0NYgUW35e2KjHGC5GG8QdshyA1vE1\n/yeDiUkxthBpTDCMvfd/ikSBgwShMgFpBWboMhdipPTYpinteQBUEGijg9cbZ8vM\nuXBZi8s2f6hHTQ7ofbp7c4zgzBSVXIma/bdqvq0CgYBHjJCJGYitIB59acmVhsIN\nxyLEW8DOiPwA1tjxrCobIvI6Zk7IfMZkaz1C7HpN+MtsPwIkzwZqmqemvY3DAiyB\nWXRN22oWADo0cyz9IKxcskquPCq86bhUKk+fbaZPE0aT45jN4F5lFwgJi0RaLXiD\nF5YK0ICF0nSaQTWyx/uD5A==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fbsvc@black-market-b6eee.iam.gserviceaccount.com",
+  "client_id": "101879682768293671449",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40black-market-b6eee.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
