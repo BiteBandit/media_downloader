@@ -26,6 +26,10 @@ def save_to_firebase(url, title, platform, thumbnail):
         'timestamp': datetime.utcnow()
     })
 
+@app.route('/')
+def home():
+    return "Media Downloader API is running!"
+
 @app.route('/api/get-media', methods=['POST'])
 def get_media():
     data = request.get_json()
@@ -79,4 +83,6 @@ def download_file(filename):
     return "File not found", 404
 
 if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=3000)
+    import os
+    port = int(os.environ.get('PORT', 3000))
+    app.run(host='0.0.0.0', port=port)
