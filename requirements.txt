@@ -2,3 +2,4 @@ Flask
 flask-cors
 firebase-admin
 yt-dlp
+gunicorn
